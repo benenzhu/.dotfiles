@@ -3,7 +3,7 @@ abbr -a nvim nvim
 abbr -a vim vim
 abbr -a c clear
 abbr -a gs git status
-abbr -a gc git commit
+abbr -a gc git commit -m
 abbr -a gd git diff
 #export https_proxy=10.7.4.2:3128
 #
