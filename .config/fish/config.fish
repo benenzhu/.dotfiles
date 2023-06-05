@@ -1,6 +1,6 @@
-abbr -a vi vim
+abbr -a vi nvim
 abbr -a nvim nvim
-abbr -a vim vim
+abbr -a vim nvim
 abbr -a c clear
 abbr -a gs git status
 abbr -a gc git commit -m

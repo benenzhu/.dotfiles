@@ -9,4 +9,8 @@ return {
       require("ufo").setup()
     end,
   },
+  {
+    "neovim/nvim-lspconfig",
+    opts = { autoformat = false },
+  },
 }
