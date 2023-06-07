@@ -15,5 +15,14 @@ return {
   },
   {
     "tpope/vim-fugitive",
+  },
+
+  {
+    "nvim-telescope/telescope.nvim",
+    opts = {
+      defaults = {
+        wrap_results = true
+      }
+    }
   }
 }
