@@ -13,4 +13,7 @@ return {
     "neovim/nvim-lspconfig",
     opts = { autoformat = false },
   },
+  {
+    "tpope/vim-fugitive",
+  }
 }
