@@ -1,7 +1,7 @@
 lastupdatecheck: 0
 recentrepos:
+- /root/.dotfiles
 - /workspace/ProjectLarC
-- /root/.config/nvim
 - /root/bazel_examples
 startuppopupversion: 5
 customcommandshistory:
