@@ -46,6 +46,7 @@ return {
         PERF = { icon = " ", alt = { "OPTIM", "PERFORMANCE", "OPTIMIZE" } },
         NOTE = { icon = " ", color = "hint", alt = { "INFO", "zty" } },
         TEST = { icon = "⏲ ", color = "test", alt = { "TESTING", "PASSED", "FAILED" } },
+        NOUSE = {icon = " ", color = "nouse", alt = {"NO"}}
       },
       gui_style = {
         fg = "NONE", -- The gui style to use for the fg highlight group.
@@ -78,6 +79,7 @@ return {
         hint = { "DiagnosticHint", "#1011FF" },
         default = { "Identifier", "#7C3AED" },
         test = { "Identifier", "#FF00FF" },
+        nouse = {"#2e334c"}
       },
       search = {
         command = "rg",
