@@ -8,4 +8,7 @@ opt.swapfile = false
 opt.relativenumber = false
 opt.wrap = true
 opt.linebreak = true
+opt.scrolloff = 8
+opt.scroll = 10
+
 
