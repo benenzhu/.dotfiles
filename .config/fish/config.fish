@@ -6,6 +6,7 @@ abbr -a gs git status
 abbr -a gc git commit -m
 abbr -a gd git diff
 alias notify="echo !FIN-ish!"
+alias pycharm="/Applications/PyCharm.app/Contents/MacOS/pycharm"
 #export https_proxy=10.7.4.2:3128
 #
 #
